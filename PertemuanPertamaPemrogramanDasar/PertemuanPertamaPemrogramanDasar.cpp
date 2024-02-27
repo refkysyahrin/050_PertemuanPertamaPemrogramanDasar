@@ -15,4 +15,6 @@ int main()
     cout << "luas lingkaran adalah = " << nluas << endl;
 
     system("pause");
+
+    cout << "=======Luas Lingkaran=======" << endl;
 }
