@@ -19,4 +19,5 @@ int main()
     float nJejari, nluas;
     cout << "=======Luas Lingkaran=======" << endl;
     cout << "Masukan Jejari =";
+    cin >> nJejari;
 }
